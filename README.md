@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kpis-him
-- 👀 I’m interested in machine learning and regression programs
-- 🌱 I’m currently learning reinforcement learning and sequential models
-- 💞️ I’m looking to collaborate on anything related to ML
+- 👀 I’m interested in the intersection of biology and computation
+- 🌱 I’m currently learning and researching the intersection of biology with quantum mechanics/computing
+- 💞️ I’m looking to collaborate on anything related to science, and I want to help people out!
 - 📫 How to reach me ikushal1990@gmail.com
 
 <!---
