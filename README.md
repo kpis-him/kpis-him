@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpis-him
 - 👀 I’m interested in the intersection of biology and computation
-- 🤖 I am also an FRC Programmer for Warrior Robotics(Team 4169)...
+- 🤖 FRC Programmer for Warrior Robotics(Team 4169)
 - 🌱 I’m currently learning and researching the interdisciplinary connections that biology and life are capable of making
 - 💞️ I’m looking to collaborate on anything related to science, and I want to help people out!
 - 📫 How to reach me: ikushal1990@gmail.com
